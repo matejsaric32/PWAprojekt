@@ -6,7 +6,7 @@ parmetris za spajanje sa bazom i ta projene vrijedi na cijelim projektu.
 
 3. Za admin pristup postoje vec napravljeni korisnik admin/admin a za obican guest/123 ako se zeli izlogirati ode se na Profile
 
-4. u folderu kako treba liciti se nalazi referenca za stranicu dobivenu za projekt
+4. U folderu kako treba izgledati se nalazi referenca za stranicu dobivenu za projekt
 
 5. Ponekad kade se otvori code u vsc-u zna reci da ima erora ali oni nestanu jer vsc nije najbolji za php development on se moze sam
 sebe ispravit ili se se samo na poziv funkcije "lupi enter" jedan red iznad pa dode sebi i vise nepokazuje errore errore
